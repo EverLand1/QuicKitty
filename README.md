@@ -6,7 +6,8 @@ Just open powershell (not even as administrator) and you're good to go!
 
 These standalone commands must be run before the script can be used. They powershell as admin and enable running unsigned scripts.
 
-/n Copy-paste into Powershell:
-
-# Start-process powershell -Verb runAs
-# set-executionpolicy remotesigned
+Copy-paste into Powershell:
+```
+Start-process powershell -Verb runAs
+set-executionpolicy remotesigned
+```
