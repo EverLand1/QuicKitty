@@ -1,15 +1,3 @@
-####################################
-##### Runs powershell as admin #####
-####################################
-
-Start-process powershell -Verb runAs
-
-###########################################
-##### Enable running unsigned scripts #####
-###########################################
-
-set-executionpolicy remotesigned
-
 ##################################
 ##### SSL/TLS Secure Channel #####
 ##################################
