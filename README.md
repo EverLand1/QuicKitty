@@ -9,5 +9,8 @@ These standalone commands must be run before the script can be used. They powers
 Copy-paste into Powershell:
 ```
 Start-process powershell -Verb runAs
+```
+Then copy-paste this command:
+```
 set-executionpolicy remotesigned
 ```
