@@ -12,5 +12,5 @@ Start-process powershell -Verb runAs
 ```
 Then copy-paste this command:
 ```
-set-executionpolicy remotesigned
+set-executionpolicy remotesigned -Force
 ```
