@@ -4,10 +4,8 @@ This is a quick script to set up and run HardeningKitty, a Windows hardening scr
 Specifically made for fast implementation in competitions, specifically for script kiddies.
 Just open powershell (not even as administrator) and you're good to go!
 
-    #Runs powershell as admin #####
+These standalone commands must be run before the script can be used. They powershell as admin and enable running unsigned scripts.
+Copy-paste into Powershell:
 
-Start-process powershell -Verb runAs
-
-    #Enable running unsigned scripts
-
-set-executionpolicy remotesigned
+# Start-process powershell -Verb runAs
+# set-executionpolicy remotesigned
