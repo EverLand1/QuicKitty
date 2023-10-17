@@ -5,7 +5,7 @@ This is a quick script to set up and run HardeningKitty, a Windows hardening scr
 Primarially made for script kiddies and beginners to quickly implement in competitions (everyone has to start somewhere!).
 
   
-Just open powershell (not even as administrator) by using the Win+r shortcut, typing "powershell", and pressing enter. Now, you're good to go!
+## Open powershell (not even as administrator) by using the Win+R shortcut, typing "powershell", and pressing enter.
 
 These standalone commands must be run before the script can be used. They powershell as admin and enable running unsigned scripts.
 
@@ -17,3 +17,4 @@ Now, copy-paste this command into the new poweshell window:
 ```
 set-executionpolicy remotesigned -Force
 ```
+### Now, you're good to go!
