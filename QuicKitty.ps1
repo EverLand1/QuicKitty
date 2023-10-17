@@ -31,12 +31,8 @@ Function InstallHardeningKitty() {
 
 InstallHardeningKitty
 
-echo Ka-Chow!!!!!!!!!!!!!!
-
 #################################################
 ##### Hardening Kitty Hail Marys the System #####
 #################################################
 
 Invoke-HardeningKitty -Mode HailMary -Log -Report -FileFindingList .\lists\finding_list_0x6d69636b_machine.csv
-
-echo You Did It!!!!!!!!!! You won Hivestorm!!!!!!!!!!
