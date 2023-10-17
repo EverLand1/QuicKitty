@@ -13,7 +13,7 @@ Copy-paste into Powershell:
 ```
 Start-process powershell -Verb runAs
 ```
-Now, copy-paste this command into the new poweshell window:
+Now, copy-paste this command into the new powershell window:
 ```
 set-executionpolicy remotesigned -Force
 ```
