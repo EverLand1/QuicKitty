@@ -5,7 +5,7 @@ This is a quick script to set up and run HardeningKitty, a Windows hardening scr
 Primarially made for script kiddies and beginners to quickly implement in competitions (everyone has to start somewhere!).
 
   
-## Open powershell (not even as administrator) by using the Win+R shortcut, typing "powershell", and pressing enter.
+## Open powershell (not even as administrator) by using the Win+R shortcut, typing "powershell", and pressing Enter.
 
 These standalone commands must be run before the script can be used. They powershell as admin and enable running unsigned scripts.
 
