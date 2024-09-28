@@ -2,7 +2,7 @@
 
 This is a quick script to set up and run HardeningKitty, a Windows hardening script. Check out their repository: https://github.com/scipag/HardeningKitty
 
-Primarially made for script kiddies and beginners to quickly implement in competitions (everyone has to start somewhere!).
+Primarily made for script kiddies and beginners to quickly implement in competitions (everyone has to start somewhere!).
 
   
 ## Open powershell (not even as administrator) by using the Win+R shortcut, typing "powershell", and pressing Enter.
